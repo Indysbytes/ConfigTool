@@ -1,0 +1,4 @@
+common:
+  application.name:  testApp
+  application.version:  "1.0"
+

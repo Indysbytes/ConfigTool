@@ -1,0 +1,13 @@
+common:
+  adapter: postgres
+  jdk.version: "1.6"
+
+hostname1:
+  database: db1.hostname.com
+  payment.api.url: http://api1.payment.com
+  host: hostname1
+
+hostname2:
+  database: db2.hostname.com
+  payment.api.url: http://api2.payment.com
+  host: hostname2
